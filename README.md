@@ -7,7 +7,7 @@
 ## Project Review
 
 - ReactJS basic functionality with a modern look; 
-
+- Resources : https://angrytools.com/
 
 ## Run it Locally
 
